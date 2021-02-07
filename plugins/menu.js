@@ -80,7 +80,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╿ Github :
 ╿ https://github.com/Arya274/Arya-BOT3
 ╿ Youtube : Drawl Nag
-╿ Instagram : @arpunchs
+╿ Instagram : @arpunchs,@faturrohimzz_
 ╰═══════════════
 
 ╭════•›「 Rules 」
